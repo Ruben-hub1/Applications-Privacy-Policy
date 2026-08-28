@@ -1,36 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Application Privacy Policy</title>
-    <style>body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }</style>
-</head>
-<body>
-    <h1>Privacy Policy</h1>
-    <p>This Privacy Policy explains how our Discord application handles user data. We are fully committed to protecting the privacy of everyone in our community.</p>
+# Privacy Policy for VoltGames
 
-    <h2>1. Data We Process</h2>
-    <p>To function properly, the application accesses standard information provided by the Discord API, which may include:</p>
-    <ul>
-        <li>User IDs, Server IDs, and Channel IDs.</li>
-        <li>Usernames and profile avatars.</li>
-        <li>Text messages sent in channels (strictly to process bot commands or run automatic moderation filters against spam and flooding).</li>
-    </ul>
+**Last Updated: August 28, 2026**
 
-    <h2>2. How We Use Data</h2>
-    <p>The retrieved data is used solely to:</p>
-    <ul>
-        <li>Execute commands requested directly by users.</li>
-        <li>Enforce server safety rules (detecting insults, spam, invite links, or unnecessary pings).</li>
-    </ul>
+VoltGames ("we," "our," or "us") operates as an unofficial game development studio creating experiences on the Vortex platform (playvortex.io). We run a community space via Discord. This Privacy Policy explains how data is handled.
 
-    <h2>3. Data Retention and Sharing</h2>
-    <p>We do not sell, share, or distribute user data to any third parties. Temporary chat data used to prevent flooding is kept only in short-term memory and is cleared regularly.</p>
+### 1. Information We Do Not Collect
+VoltGames does not operate an independent user account database or run standalone servers that log personal identifiable information (PII) such as emails, phone numbers, or real names.
 
-    <h2>4. Security</h2>
-    <p>We implement necessary security measures to safeguard all processed information against unauthorized access or modification.</p>
+### 2. Community Moderation Data
+To enforce our community rules, our server moderation tools may log Discord User IDs, usernames, and chat history associated with rule violations, warnings, kicks, or bans. This data is used strictly for server safety.
 
-    <h2>5. Contact</h2>
-    <p>For any questions regarding your privacy or to request the deletion of any automated data records, please contact the application developer through the official Discord support server.</p>
-</body>
-</html>
+### 3. Third-Party Platforms (Vortex & Discord)
+Because our games run on Vortex and our community hub is hosted on Discord, your data is governed by their respective privacy practices:
+* **Vortex:** Any game progress, player count, or in-game tracking is automatically processed by the Vortex platform engine.
+* **Discord:** Your profile data, chat messages, and user ID are handled entirely by Discord.
+
+### 4. Feedback and Submissions
+If you submit ideas, bug reports, or feedback through our designated forum channels, that text becomes visible to the public. Please do not share sensitive or private personal information in public text channels.
+
+### 5. Contact Us
+If you have questions about this policy, please reach out to us directly through our official [VoltGames Discord Server](https://discord.gg).
